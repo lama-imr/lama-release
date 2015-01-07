@@ -1,0 +1,12 @@
+Source: ros-indigo-lama-jockeys
+Section: misc
+Priority: extra
+Maintainer: Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-lama-interfaces, ros-indigo-roscpp
+Homepage: http://wiki.ros.org/lama_jockeys
+Standards-Version: 3.9.2
+
+Package: ros-indigo-lama-jockeys
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-lama-interfaces, ros-indigo-roscpp
+Description: The lama_jockeys package contains base classes for learning, localizing, and navigating jockeys.
