@@ -1,0 +1,8 @@
+ros-indigo-lama-msgs (0.1.0-0saucy) saucy; urgency=high
+
+  * First public release for Indigo
+  * Contributors: Gaël Ecorchard
+
+ -- Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>  Tue, 06 Jan 2015 23:00:00 -0000
+
+
