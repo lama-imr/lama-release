@@ -1,0 +1,8 @@
+ros-indigo-lama-interfaces (0.1.0-0saucy) saucy; urgency=high
+
+  * Fist public release for Indigo
+  * Contributors: Gaël Ecorchard, Karel Košnar
+
+ -- Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>  Tue, 06 Jan 2015 23:00:00 -0000
+
+
