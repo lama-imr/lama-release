@@ -1,0 +1,12 @@
+Source: ros-indigo-lama-core
+Section: misc
+Priority: extra
+Maintainer: Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/Large%20Maps%20Framework
+Standards-Version: 3.9.2
+
+Package: ros-indigo-lama-core
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-lama-interfaces, ros-indigo-lama-jockeys, ros-indigo-lama-msgs
+Description: Framework for robot autonomy in Large Maps (LaMa), core functionalities
