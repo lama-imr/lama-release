@@ -1,0 +1,24 @@
+ros-indigo-lama-jockeys (0.1.3-0saucy) saucy; urgency=high
+
+  * lama_jockeys: cosmetic changes
+  * Contributors: Gaël Ecorchard
+
+ -- Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>  Tue, 10 Feb 2015 23:00:00 -0000
+
+ros-indigo-lama-jockeys (0.1.1-0saucy) saucy; urgency=high
+
+  * lama_interfaces, lama_jockeys: update install
+  * all: move some messages from lama_interfaces to lama_msgs
+    lama_interfaces: update install script
+  * Contributors: Gaël Ecorchard
+
+ -- Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>  Wed, 07 Jan 2015 23:00:00 -0000
+
+ros-indigo-lama-jockeys (0.1.0-0saucy) saucy; urgency=high
+
+  * First public release for Indigo
+  * Contributors: Gaël Ecorchard
+
+ -- Gaël Ecorchard <gael.ecorchard@ciirc.cvut.cz>  Tue, 06 Jan 2015 23:00:00 -0000
+
+
